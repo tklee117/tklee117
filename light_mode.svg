@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="1061px" height="540px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="1070px" height="540px" font-size="16px">
 <style>
 .key {fill: #953800;} .value {fill: #0a3069;} .addColor {fill: #1a7f37;} .delColor {fill: #cf222e;} .cc {fill: #c2cfde;} text, tspan {white-space: pre;}
 </style>
-<rect width="1061px" height="540px" fill="#f6f8fa" rx="15"/>
+<rect width="1070px" height="540px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                  +|lill|=</tspan>
-<tspan x="15" y="50">             i1tJgT7TF7Tgg7l</tspan>
-<tspan x="15" y="70">            JT7Tg&amp;77Ty&amp;&amp;$gFJ1</tspan>
-<tspan x="15" y="90">           TyTF&amp;gl^i&amp;&amp;&amp;$&amp;&amp;%&amp;gl</tspan>
-<tspan x="15" y="110">           7&amp;y$$T+^=7&amp;%&amp;&amp;y$$%7</tspan>
-<tspan x="15" y="130">            y$$gJ771ltFgTJi=tT</tspan>
-<tspan x="15" y="150">            T+:^--=^`--=-^^-|7</tspan>
-<tspan x="15" y="170">             |:;-i7ll1JgTJt|=</tspan>
-<tspan x="15" y="190">              ;=tTt1TF7FT7tl</tspan>
-<tspan x="15" y="210">               +|1t1F$yJtFTi</tspan>
-<tspan x="15" y="230">               &#x27;|J7t11JTTTt^&#x27;</tspan>
-<tspan x="15" y="250">              7L;+L7gyygFJt&#x27;&#x27;&#x27;Lii</tspan>
-<tspan x="15" y="270">            T1Tg-|+ltTTF7F;,,&#x27;7gy7</tspan>
-<tspan x="15" y="290">      L=iTyyy77TT^l+|illt-,,,:TT&amp;%F1l^=</tspan>
-<tspan x="15" y="310">   ;&#x27;it|T&amp;yyFg7$y+;t+~~-~,.,,~1t$%$Fl:&#x27;+il</tspan>
-<tspan x="15" y="330"> lL ;Ji1$&amp;$yTgyFyJ;~$&amp;&amp;l&#x27;,.,,+ltyyyy7JJTt1+L</tspan>
-<tspan x="15" y="350">|l1^17$&amp;FTy$FgF71J1^~yJ.,,&#x27;;lg1TFFgF7ttJ-:,,</tspan>
-<tspan x="15" y="370">^1ti1g&amp;%yF7TFTy$yT7TJJ7TJ7g&amp;&amp;7TFgFJ1t7gtl|l|</tspan>
-<tspan x="15" y="390">+i-+F%&amp;TFJ7TTJJtJ77JF$yTy$&amp;$TgyyJtLFF7$&amp;$tLi</tspan>
-<tspan x="15" y="410">Tg7TM$gL7$7Tg7T7TTF7Ty&amp;&amp;&amp;&amp;%gygyTTt1Tgyy%F1lL</tspan>
-<tspan x="15" y="430">7$FT%yF7y7$yFFFTTJl^^+l==yFJi^;iJt7ygF$&amp;TLii</tspan>
-<tspan x="15" y="450">l$yJ$&amp;Tt$TF$Tli+|==-;|=^&#x27;;J1il^=|iTgyy$%gli|</tspan>
-<tspan x="15" y="470">lF$$g&amp;yT$$$FL^`&#x27;-11l^--~-l|+|i==Ligy$$&amp;$yi||</tspan>
-<tspan x="15" y="490">tLg$$@$Fy%$yJ+lLi~~:&#x27;=t+-itLL`=+-+yyy$&amp;&amp;yl||</tspan>
-<tspan x="15" y="510">Fly$$&amp;gy$&amp;$ggL1LJt-^lJg==|--$LLtLL$$yF&amp;&amp;yJi|</tspan>
+<tspan x="15" y="30">                   JTg gygTJ</tspan>
+<tspan x="15" y="50">             t777TTgy&amp;g$&amp;&amp;g7TtLtJ</tspan>
+<tspan x="15" y="70">            Fggg7T7JyyiTgJ77tT7FgyF</tspan>
+<tspan x="15" y="90">           $&amp;$ygFJtFTi|tTt117yFgg$&amp;$</tspan>
+<tspan x="15" y="110">          y&amp;$y$&amp;F77|;&#x27;`-|17Fgy$$$$y&amp;g</tspan>
+<tspan x="15" y="130">          &amp;$$%&amp;g$yt=&#x27;,,;lLJTg$&amp;&amp;%&amp;&amp;$$</tspan>
+<tspan x="15" y="150">          $&amp;%&amp;y$yg1^,..,=tJtgF$$&amp;$$&amp;$</tspan>
+<tspan x="15" y="170">          $$Fyyg7g7Ll|^~|FTt7gy$yy$&amp;y</tspan>
+<tspan x="15" y="190">          tgJgtl1tt1L7gggL11L1JF&amp;Fyg</tspan>
+<tspan x="15" y="210">          +T-~L:``::+7^:J-~~;^-i|=7|</tspan>
+<tspan x="15" y="230">          |1=;^|=-=iL;. &#x27;il=^=+=~-L=</tspan>
+<tspan x="15" y="250">           1|^^--=l||lLLli|l=~~^^+L</tspan>
+<tspan x="15" y="270">             i===i|+-=|ii||l+^--=J</tspan>
+<tspan x="15" y="290">              L+-;`:-iili|^;;^=|7</tspan>
+<tspan x="15" y="310">               tLl+;`;~^~::;=L1F</tspan>
+<tspan x="15" y="330">              tlJ7J1|=^^-=itTT7</tspan>
+<tspan x="15" y="350">             +l+l1J7T777TTTTJLL+</tspan>
+<tspan x="15" y="370">           =,tl||lL1111ttttLli1~;</tspan>
+<tspan x="15" y="390">       TF7:,.;||||ilLLLLLlllii^,.&#x27;7</tspan>
+<tspan x="15" y="410">       gg:...,&#x27;=ii||illliiil|:....^yygF</tspan>
+<tspan x="15" y="430">       gL..   .,^++++|||+|i=,`&#x27;   ,TyggF</tspan>
+<tspan x="15" y="450">TTFFFFFF+;|1ilL;,:;^^^--^^;&#x27;+li17|`tggFTFFT7&#x27;</tspan>
+<tspan x="15" y="470">TTFFFFFg7&amp;%&amp;y|l1L+;``;;:&#x27;-ll=+l$&amp;%7gggFFTFTT`</tspan>
+<tspan x="15" y="490">FFFFTFFgg$$$$F--=----~==LL-;~ly$$$yggFFTTTT7;</tspan>
+<tspan x="15" y="510">TFFFTTFFgggy$yF-~:,,`;;-~;-LFyyFFFFFFFFTTTTT^</tspan>
 </text>
-<text x="466" y="30" fill="#24292f">
-<tspan x="466" y="30">tk@lee <tspan class="cc">——————————————————————————————————————————————————-—-</tspan></tspan>
-<tspan x="466" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Windows, Ubuntu 22.04, ROS 2 Humble</tspan></tspan>
-<tspan x="466" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">3 years, 1 month, 3 days</tspan></tspan>
-<tspan x="466" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">California Institute of Technology</tspan></tspan>
-<tspan x="466" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Electrical Engineering (Intelligent Systems)</tspan></tspan>
-<tspan x="466" y="130"><tspan class="cc">. </tspan><tspan class="key">Minor</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Robotics, Control &amp; Dynamical Systems</tspan></tspan>
-<tspan x="466" y="150"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Pasadena, CA</tspan></tspan>
-<tspan x="466" y="170"><tspan class="cc">.</tspan></tspan>
-<tspan x="466" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, C++, JavaScript</tspan></tspan>
-<tspan x="466" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">HTML, LaTeX, YAML</tspan></tspan>
-<tspan x="466" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">English, Korean</tspan></tspan>
-<tspan x="466" y="250"><tspan class="cc">.</tspan></tspan>
-<tspan x="466" y="270"><tspan class="cc">. </tspan><tspan class="key">Research.Interests</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Multi-Robot Planning, Control</tspan></tspan>
-<tspan x="466" y="290"><tspan class="cc">. </tspan><tspan class="key">Robotics.Stack</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">ROS 2, MPPI, SLAM, Ergodic Search</tspan></tspan>
-<tspan x="466" y="310"></tspan>
-<tspan x="466" y="330">- Contact <tspan class="cc">———————————————————————————————————————————————-—-</tspan></tspan>
-<tspan x="466" y="350"><tspan class="cc">. </tspan><tspan class="key">Email.School</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">tlee2@caltech.edu</tspan></tspan>
-<tspan x="466" y="370"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">tklee117</tspan></tspan>
-<tspan x="466" y="390"></tspan>
-<tspan x="466" y="410">- GitHub Stats <tspan class="cc">——————————————————————————————————————————-—-</tspan></tspan>
-<tspan x="466" y="430"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">8 {Contributed: 0}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">6</tspan></tspan>
-<tspan x="466" y="450"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">188</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">4</tspan></tspan>
-<tspan x="466" y="470"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">30,299</tspan> ( <tspan class="addColor">45,260++</tspan>, <tspan class="delColor">14,961--</tspan> )</tspan>
+<text x="475" y="30" fill="#24292f">
+<tspan x="475" y="30">tk@lee <tspan class="cc">——————————————————————————————————————————————————-—-</tspan></tspan>
+<tspan x="475" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Windows, Ubuntu 22.04, ROS 2 Humble</tspan></tspan>
+<tspan x="475" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">3 years, 1 month, 3 days</tspan></tspan>
+<tspan x="475" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">California Institute of Technology</tspan></tspan>
+<tspan x="475" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Electrical Engineering (Intelligent Systems)</tspan></tspan>
+<tspan x="475" y="130"><tspan class="cc">. </tspan><tspan class="key">Minor</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Robotics, Control &amp; Dynamical Systems</tspan></tspan>
+<tspan x="475" y="150"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Pasadena, CA</tspan></tspan>
+<tspan x="475" y="170"><tspan class="cc">.</tspan></tspan>
+<tspan x="475" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, C++, JavaScript</tspan></tspan>
+<tspan x="475" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">HTML, LaTeX, YAML</tspan></tspan>
+<tspan x="475" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">English, Korean</tspan></tspan>
+<tspan x="475" y="250"><tspan class="cc">.</tspan></tspan>
+<tspan x="475" y="270"><tspan class="cc">. </tspan><tspan class="key">Research.Interests</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Multi-Robot Planning, Control</tspan></tspan>
+<tspan x="475" y="290"><tspan class="cc">. </tspan><tspan class="key">Robotics.Stack</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">ROS 2, MPPI, SLAM, Ergodic Search</tspan></tspan>
+<tspan x="475" y="310"></tspan>
+<tspan x="475" y="330">- Contact <tspan class="cc">———————————————————————————————————————————————-—-</tspan></tspan>
+<tspan x="475" y="350"><tspan class="cc">. </tspan><tspan class="key">Email.School</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">tlee2@caltech.edu</tspan></tspan>
+<tspan x="475" y="370"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">tklee117</tspan></tspan>
+<tspan x="475" y="390"></tspan>
+<tspan x="475" y="410">- GitHub Stats <tspan class="cc">——————————————————————————————————————————-—-</tspan></tspan>
+<tspan x="475" y="430"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">8 {Contributed: 0}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">6</tspan></tspan>
+<tspan x="475" y="450"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">188</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">4</tspan></tspan>
+<tspan x="475" y="470"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">30,299</tspan> ( <tspan class="addColor">45,260++</tspan>, <tspan class="delColor">14,961--</tspan> )</tspan>
 </text>
 </svg>
